@@ -1,7 +1,5 @@
 ### Hi there 👋
--
--
--
+<br>
 - 🔭 I’m a student
 - 🌱 I’m currently learning Python, Django, Html, Css....
 - ⚡ Fun fact *I'm a architect and urbanist*
