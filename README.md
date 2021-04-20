@@ -13,8 +13,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  width="25" height="25"/>
 </p>
 <br>
+
+Let's connect? 🙋
 <p align="center">
-<a href="https://linkedin.com/in/karen-christina-diz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karendiz" height="15" width="15"/></a>
-<a href="https://fb.com/karen.diz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karendiz" height="15" width="15" /></a>
-<a href="https://instagram.com/karendiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karendiz" height="15" width="15"</a>
+<a href="https://linkedin.com/in/karen-christina-diz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karendiz" height="18" width="18"/></a>
+<a href="https://fb.com/karen.diz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karendiz" height="18" width="18" /></a>
+<a href="https://instagram.com/karendiz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karendiz" height="18" width="18"</a>
 </p>
