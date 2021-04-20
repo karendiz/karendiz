@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karendiz" alt="karendiz" /> </p>
 
-- 🔭 I’m a student
-- 🌱 I’m currently learning Python, Django, Html, Css....
-- ⚡ Fun fact *I'm a architect and urbanist*
+- 🤓 I'm a System Analysis and Development student
+- 📚 I’m currently learning Python, Django, Html, Css....
+- 💁 Fun fact about me *I'm a architect and urbanist*
 - 📫 How to reach me *karendiz@hotmail.com*
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>  
