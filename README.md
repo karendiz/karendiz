@@ -1,8 +1,8 @@
 ### Hi there 👋!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karendiz" alt="karendiz" /> </p>
 
-- 🤓 I'm a System Analysis and Development student
-- 📚 I’m currently learning Python, Django, Html, Css....
+- 🤓 I'm System Developer Analyst
+- 📚 I’m currently learning Python, SQL, BI and everything that involves data analytics
 - 💁 Fun fact about me *I'm a architect and urbanist*
 - 📫 How to reach me *karendiz@hotmail.com*
 <p align="left">
