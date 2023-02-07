@@ -16,7 +16,7 @@
 
 Let's connect? 🙋
 <p align="center">
-<a href="https://www.linkedin.com/in/karendiz/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karendiz" height="18" width="18"/></a>
+<a href="https://www.linkedin.com/in/karendiz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karendiz" height="18" width="18"/></a>
 <a href="https://fb.com/karen.diz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karendiz" height="18" width="18" /></a>
 <a href="https://instagram.com/karendiz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karendiz" height="18" width="18"</a>
 </p>
