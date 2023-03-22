@@ -3,7 +3,6 @@
 
 - 🤓 I'm System Developer Analyst
 - 📚 I’m currently learning Python, SQL, BI and everything that involves data analytics
-- 💁 Fun fact about me *I'm a architect and urbanist*
 - 📫 How to reach me *karendiz@hotmail.com*
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>  
